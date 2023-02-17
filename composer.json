@@ -1,6 +1,6 @@
 {
     "name": "lwwcas/laravel-countries",
-    "description": "A list of all countries, optimized for Laravel 8 and 9",
+    "description": "A list of all countries, optimized for Laravel 8, 9 and 10",
     "homepage": "https://github.com/lwwcas/laravel-countries",
     "type": "library",
     "license": "MIT",
@@ -19,8 +19,8 @@
         "laravel-countries"
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "laravel/framework": "^8.12|^9.0",
+        "php": "^7.3|^8.0|^8.1|^8.2",
+        "laravel/framework": "^8.12|^9.0|^10.0",
         "astrotomic/laravel-translatable": "^11.8"
     },
     "require-dev": {
